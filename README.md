@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning to code for 2 years but I've been working with developers for 10 years as Business Analyst. After years of not only being frustrated of being held back on some of my projects, but just fascinated of what technology can do I've finally decided to take the leap and transition to a new career in software development.
+I've been learning to code for 2 years but my passion in technology began as an Business Analyst.  After years of working with sofware developer and being fascinated of what technology can do I decided to take the leap and transition to a new career in software development.
 
 * 🌍  I'm based in Orange County, California
 * ✉️  You can contact me at [jnrosero@gmail.com](mailto:jnrosero@gmail.com)
